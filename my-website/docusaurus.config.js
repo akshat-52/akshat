@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Akshat Kumar',
   tagline: 'hola amiga!👋',
-  favicon: 'img/logo.png',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://akshat-kumar.netlify.app/',
@@ -77,8 +77,6 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/contact', label: 'Contact Me', position: 'left'},
-          {to: '/help', label: 'Help', position: 'left'},
           {
             href: 'https://github.com/akshat-52',
             label: 'GitHub',
