@@ -7,8 +7,17 @@ const FeatureList = [
     title: 'Developer',
     Svg: require('@site/static/img/undraw_developer.svg').default,
     description: (
-      <>
-        A full time developer with experience in Web & Android App Development. <code> ANDROID</code>
+      <> 
+        A full time developer with experience in Web & Android App Development. <br></br> <br></br> 
+        <a href='https://developer.mozilla.org/en-US/docs/Web/HTML'><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html logo" height="30px"></img></a> &nbsp;
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Logo" height="30px"></img> &nbsp;
       </>
     ),
   },
@@ -17,9 +26,10 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_designer.svg').default,
     description: (
       <>
-        Self made Designer, well versed in Figma. Currently guiding juniors as Design Head of a Student Club in VIT University. 
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Self made Designer, well versed in Figma. Currently guiding juniors as Design Head of a Student Club in VIT University. <br></br> <br></br>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="adobe Illustrator logo" height="30px"></img>
       </>
     ),
   },
@@ -28,8 +38,14 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_code.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Programmer <br></br> <br></br>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++ logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android-studio logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github logo" height="30px"></img> &nbsp;
+        <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="NETBEANS logo" height="30px"></img>
       </>
     ),
   },
